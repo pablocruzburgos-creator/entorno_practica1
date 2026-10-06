@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 hola pablo
-=======
 hola a todos
->>>>>>> d83818357f04c761b2988735f3fe8dcddd89006b
